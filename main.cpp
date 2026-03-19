@@ -8,9 +8,7 @@ switch (var) {
     case 0:
         cout << "its zero yo";
         break;
-        case 1:
-        cout << "its one yo";
-        break;
+
 
 }
 
