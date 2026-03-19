@@ -11,9 +11,7 @@ switch (var) {
         case 1:
         cout << "its one yo";
         break;
-    default:
-        cout << "its another yo";
-        break;
+
 }
 
 
